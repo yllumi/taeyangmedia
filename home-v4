@@ -1,0 +1,3510 @@
+<!DOCTYPE HTML>
+<html lang=" en">
+
+<head>
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Home v4 | Newsfeed - Responsive News, Magazine Premium Jekyll Theme</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Home v4" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="NewsFeed is a responsive Jekyll template for your business website" />
+<meta property="og:description" content="NewsFeed is a responsive Jekyll template for your business website" />
+<link rel="canonical" href="/home-v4" />
+<meta property="og:url" content="/home-v4" />
+<meta property="og:site_name" content="Newsfeed - Responsive News, Magazine Premium Jekyll Theme" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Home v4" />
+<meta name="twitter:site" content="@" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"NewsFeed is a responsive Jekyll template for your business website","headline":"Home v4","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/header-brand.png"}},"url":"/home-v4"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!--  Add Favicon -->
+    <link rel="icon" href="/assets/images/favicon-32x32.png" type="image/x-icon" />
+
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Open+Sans&display=swap"
+        rel="stylesheet">
+
+    <!-- gulp:css -->
+    <link href='https://d33wubrfki0l68.cloudfront.net/css/ccafff304955af6c12bdeb3bcba079d4efcf65f1/assets/css/app.min.css' rel='stylesheet'/>
+    <!-- endgulp -->
+
+    <link type="application/atom+xml" rel="alternate" href="/index.xml" title="Newsfeed - Responsive News, Magazine Premium Jekyll Theme" />
+
+</head>
+
+<body>
+    <!--/// Header Area /// -->
+    <div class="preloader s " >
+        <div class="lds-roller">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    
+    <header class="header-area">
+
+    <div class="header-navbar-middle d-none d-lg-block">
+        <div class="container">
+            <div class="navbar-brand-wrapper py-3 d-flex justify-content-center align-items-center">
+                <a class="navbar-brand" href="/">
+                    <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/da047f13938ef3073df84084c42973f94b813008/e2cd2/assets/images/header-brand.png" alt="Newsfeed - Responsive News, Magazine Premium Jekyll Theme">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="header-navbar-bottom pt-2 pt-lg-0 border-top border-light">
+        <div class="container themeix-menu-selector">
+            <nav class="navbar navbar-expand-lg">
+                <div class="collapse navbar-collapse" id="main_nav">
+                    
+
+<ul class="navbar-nav mx-auto ">
+    
+        <li class="nav-item  dropdown    ">
+            <a class="nav-link  dropdown-toggle  " href="/"> Home</a>
+            
+                
+                    <ul class="dropdown-menu">
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/"> Home v1</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v2"> Home v2</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v3"> Home v3</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v4"> Home v4</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v5"> Home v5</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v6"> Home v6</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item    dropdown-toggle " href="/"> Post Layouts</a>
+                            
+                                <ul class="submenu dropdown-menu">
+                                    
+                                    <li>
+                                        <a class="dropdown-item  " href="/lifestyle/political/2018/12/06/13-things-about-sports-you-may-not-have-known"> Blog Layouts 1  </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a class="dropdown-item  " href="/political/receipe/2019/02/09/free-themes"> Blog Layouts 2  </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a class="dropdown-item  " href="/fashion/nature/2018/12/06/should-you-be-using-jquery-3-4"> Blog Layouts 3  </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a class="dropdown-item   dropdown-toggle " href="/"> Menu level  </a>
+                                        
+                                        <ul class="submenu dropdown-menu">
+                                            
+                                            <li><a class="dropdown-item" href="/"> Menu level 4</a></li>
+                                            
+                                            <li><a class="dropdown-item" href="/"> Menu level 4</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                
+            
+        </li>
+    
+        <li class="nav-item  dropdown    has-megamenu  ">
+            <a class="nav-link  dropdown-toggle  " href="/"> Explore</a>
+            
+                
+                    <div class="dropdown-menu megamenu">
+                        <div class="row">
+                            
+                            <div class="col-md-3">
+                                <h6 class="text-danger">Home Variations</h6>
+                                <ul class="list-inline">
+                                    
+                                    <li><a href="/home-v2">Classic Blog</a></li>
+                                    
+                                    <li><a href="/home-v3">Corporate Blog</a></li>
+                                    
+                                    <li><a href="/home-v4">Recipe Blog</a></li>
+                                    
+                                    <li><a href="/home-v5">Sports Blog</a></li>
+                                    
+                                    <li><a href="/home-v6">Full Width Blog</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="col-md-3">
+                                <h6 class="text-danger">Categories</h6>
+                                <ul class="list-inline">
+                                    
+                                    <li><a href="/category/lifestyle">Lifestyle</a></li>
+                                    
+                                    <li><a href="/category/sports">Sports</a></li>
+                                    
+                                    <li><a href="/category/trending">Trending</a></li>
+                                    
+                                    <li><a href="/category/political">Political</a></li>
+                                    
+                                    <li><a href="/category/recipe">Recipe</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="col-md-3">
+                                <h6 class="text-danger">Pages</h6>
+                                <ul class="list-inline">
+                                    
+                                    <li><a href="/blog">Articles</a></li>
+                                    
+                                    <li><a href="/about">About</a></li>
+                                    
+                                    <li><a href="/contact">Contact</a></li>
+                                    
+                                    <li><a href="/faq">FAQ</a></li>
+                                    
+                                    <li><a href="/privacy-policy">Privacy Policy</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="col-md-3">
+                                <h6 class="text-danger">Blog Pages</h6>
+                                <ul class="list-inline">
+                                    
+                                    <li><a href="/lifestyle/political/2018/12/06/13-things-about-sports-you-may-not-have-known">Post Layouts 1</a></li>
+                                    
+                                    <li><a href="/political/receipe/2019/02/09/free-themes">Post Layouts 2</a></li>
+                                    
+                                    <li><a href="/fashion/nature/2018/12/06/should-you-be-using-jquery-3-4">Post Layouts 3</a></li>
+                                    
+                                    <li><a href="/blog">Blog Layout 1</a></li>
+                                    
+                                    <li><a href="/blog-v2">Blog Layout 2</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                
+            
+        </li>
+    
+        <li class="nav-item  dropdown    ">
+            <a class="nav-link  dropdown-toggle  " href="/"> Pages</a>
+            
+                
+                    <ul class="dropdown-menu">
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/about"> About Us</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/author/themeix"> Author</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/all-authors"> Authors</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/category/trending"> Category</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/categories"> Categories</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/faq"> FAQ</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/privacy-policy"> Privacy Policy</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/blog"> Blog</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/blog-v2"> Blog v2</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/404"> 404</a>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                
+            
+        </li>
+    
+        <li class="nav-item    ">
+            <a class="nav-link  " href="/blog"> Articles</a>
+            
+        </li>
+    
+        <li class="nav-item    ">
+            <a class="nav-link  " href="/contact"> Contact</a>
+            
+        </li>
+    
+        <li class="nav-item    ">
+            <a class="nav-link  " href="/tags"> Tags</a>
+            
+        </li>
+    
+        <li class="nav-item    ">
+            <a class="nav-link  " href="https://themeix.com/product/newsfeed-news-magazine-website-html-site-template/"> Buy Now <span>New</span></a>
+            
+        </li>
+    
+</ul>
+                </div>
+                
+            </nav>
+            <div class="modal fade" id="search-modal" data-bs-backdrop="static">
+    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+
+                <form class="forms" id="gh-search-input" method="get" target="_top">
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="fas fa-search"></i></span>
+                        <input type="search" class="search-input form-control" placeholder="Type to search"
+                            id="search-input" name="q" />
+                    </div>
+                </form>
+                <div id="results-container"></div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</header>
+
+
+    
+
+    <div class="blog-area pt-3 pb-3  pt-lg-2 pb-lg-3">
+   <div class="container">
+      <div class="row pt-2">
+         
+         
+         
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/recipe/2019/02/01/it-is-the-same-for-whoever-is-interested'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/d8d500cdc037e07bc08b4f7329d562cc2c8539ee/e27b8/assets/images/home-4/blog-img12.jpg" alt="It is the same for whoever is interested to bid for the event"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/recipe/2019/02/01/it-is-the-same-for-whoever-is-interested'>It is the same for whoever is interested to bid for the event</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/themeix/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/5f72537f8df9c082baf2eab9525acce2cfe92d19/09af5/assets/images/author/author-img5.jpg" alt="Themeix"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Themeix"
+                                            aria-label="Themeix">Themeix</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/recipe/2018/12/06/whether-or-not-i-can-get-back-into-mumbai'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/20e45aeb4b480baf0cc69a4b0ee1dfa172d90fb8/3cb78/assets/images/home-4/blog-img14.jpg" alt="The UX of Sound: Designing Audio Experiences"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/recipe/2018/12/06/whether-or-not-i-can-get-back-into-mumbai'>The UX of Sound: Designing Audio Experiences</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class="col-md-6">
+               
+                  
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/recipe/national/2018/12/06/we-will-need-to-have-10-full-fledged'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/d8d500cdc037e07bc08b4f7329d562cc2c8539ee/e27b8/assets/images/home-4/blog-img12.jpg" alt="We will need to have 10 full fledged stadiums"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/recipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+            </a>
+        
+            <a href="/category/national" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    National
+                
+            </a>
+        
+
+        <h2><a href='/recipe/national/2018/12/06/we-will-need-to-have-10-full-fledged'>We will need to have 10 full fledged stadiums</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Chapman">
+                                Chapman</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>06 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+               
+            </div>
+            
+         
+            
+            
+            <div class="col-md-6">
+               
+                  
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/recipe/2018/12/06/the-former-mumbai-left-arm-spinner'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/d8d500cdc037e07bc08b4f7329d562cc2c8539ee/e27b8/assets/images/home-4/blog-img12.jpg" alt="The former Mumbai left-arm spinner said"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/recipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+            </a>
+        
+
+        <h2><a href='/recipe/2018/12/06/the-former-mumbai-left-arm-spinner'>The former Mumbai left-arm spinner said</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Chapman">
+                                Chapman</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>06 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/recipe/2018/12/06/once-the-restrictions-are'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/32f830bbff4cd7e6582286bc1029256a844db406/6c455/assets/images/home-4/blog-img13.jpg" alt="Once the restrictions are lifted"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/recipe/2018/12/06/once-the-restrictions-are'>Once the restrictions are lifted</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/recipe/national/2018/12/06/nazmul-also-confirmed-that-they-have-decided-to'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/0de40b0e437caebe60453f8b60a991c2248d38b8/daf91/assets/images/home-4/blog-img19.jpg" alt="Nazmul also confirmed that they have decided to hold"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+            <a href="/category/national" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    National
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/recipe/national/2018/12/06/nazmul-also-confirmed-that-they-have-decided-to'>Nazmul also confirmed that they have decided to hold</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    1 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class="col-md-6">
+               
+                  
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/recipe/2018/12/06/mumbai-cricket-association-for-their'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/d4921ba19de6845504a04b7a6d86415fc3bb0c73/5aae4/assets/images/home-4/blog-img11.jpg" alt=" BCCI and the Mumbai Cricket Association for their help"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/lifestyle" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Lifestyle
+                
+            </a>
+        
+            <a href="/category/recipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+            </a>
+        
+
+        <h2><a href='/lifestyle/recipe/2018/12/06/mumbai-cricket-association-for-their'> BCCI and the Mumbai Cricket Association for their help</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Chapman">
+                                Chapman</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>06 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+               
+            </div>
+            
+         
+            
+            
+            <div class="col-md-6">
+               
+                  
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/recipe/2018/12/06/i-can-get-back-into-mumbai'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/20e45aeb4b480baf0cc69a4b0ee1dfa172d90fb8/3cb78/assets/images/home-4/blog-img14.jpg" alt="Designing Audio Experiences"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/recipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+            </a>
+        
+
+        <h2><a href='/recipe/2018/12/06/i-can-get-back-into-mumbai'>Designing Audio Experiences</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Chapman">
+                                Chapman</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>06 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/lifestyle/recipe/national/2018/12/06/cricket-australia-announced'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/2ee537b35ba9266647dd943105c79b8df3fa02b2/9c327/assets/images/home-4/blog-img17.jpg" alt="Cricket Australia announced an 18-member"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/lifestyle" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Lifestyle
+                
+                
+            </a>
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+            <a href="/category/national" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    National
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/lifestyle/recipe/national/2018/12/06/cricket-australia-announced'>Cricket Australia announced an 18-member</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/recipe/national/2018/12/06/chavan-was-banned-in-2013'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/199d267a05d5cad59ac0c4b21472bc8626b57ada/fb13b/assets/images/home-4/blog-img15.jpg" alt="Chavan was banned in 2013 for life"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+            <a href="/category/national" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    National
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/recipe/national/2018/12/06/chavan-was-banned-in-2013'>Chavan was banned in 2013 for life</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class="col-md-6">
+               
+                  
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/recipe/national/2018/12/06/bcb-extended-the-tenure-of-the'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/395018c95e04a452d7f71b86feebe743682764ae/a5b50/assets/images/home-4/blog-img18.jpg" alt="ECommerce Metrics That Really Matter"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/lifestyle" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Lifestyle
+                
+            </a>
+        
+            <a href="/category/recipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+            </a>
+        
+            <a href="/category/national" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    National
+                
+            </a>
+        
+
+        <h2><a href='/lifestyle/recipe/national/2018/12/06/bcb-extended-the-tenure-of-the'>ECommerce Metrics That Really Matter</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Chapman">
+                                Chapman</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>06 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+               
+            </div>
+            
+         
+            
+            
+            <div class="col-md-6">
+               
+                  
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/recipe/2018/12/06/chavan-immediately-responded-saying'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/aa9ca7b48a3db872c9b43778ddddd91e85a169b7/b3da8/assets/images/home-4/blog-img10.jpg" alt="Chavan immediately responded saying a big burden"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/lifestyle" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Lifestyle
+                
+            </a>
+        
+            <a href="/category/recipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+            </a>
+        
+
+        <h2><a href='/lifestyle/recipe/2018/12/06/chavan-immediately-responded-saying'>Chavan immediately responded saying a big burden</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Chapman">
+                                Chapman</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>06 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/recipe/2018/12/06/bccis-acting-ceo-hemang-amin'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/a22372cd04fd44a2119216904095a1478792eecc/4a251/assets/images/home-4/blog-img6.jpg" alt="BCCI's acting CEO Hemang Amin informed"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/recipe/2018/12/06/bccis-acting-ceo-hemang-amin'>BCCI's acting CEO Hemang Amin informed</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    5 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/recipe/2018/12/06/in-a-communication-to-the-35-year-old-player-on'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/72a71402b8a043e4ac373b82b823c5af30edac5d/f9b82/assets/images/home-4/blog-img2.jpg" alt="In a communication to the 35-year-old player on Tuesday"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/recipe/2018/12/06/in-a-communication-to-the-35-year-old-player-on'>In a communication to the 35-year-old player on Tuesday</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class="col-md-6">
+               
+                  
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/recipe/2018/12/02/mca-to-apply-the-same'> <img class="lazyload" src="https://cdn.stocksnap.io/img-thumbs/960w/DBSSPR0O2Z.jpg" alt="MCA to apply the same rules"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/recipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+            </a>
+        
+
+        <h2><a href='/recipe/2018/12/02/mca-to-apply-the-same'>MCA to apply the same rules</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/themeix/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/5f72537f8df9c082baf2eab9525acce2cfe92d19/09af5/assets/images/author/author-img5.jpg" alt="Themeix" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Themeix">
+                                Themeix</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>02 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+               
+            </div>
+            
+         
+            
+            
+            <div class="col-md-6">
+               
+                  
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/editors-pick/recipe/2018/12/01/chavan-has-been-pleading'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/19198fcc2f30fb692adb29a526540a1e28e3fca3/57370/assets/images/home-4/blog-img16.jpg" alt="Chavan has been pleading with the BCCI"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/editors-pick" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                        
+                        Editors Pick
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+            </a>
+        
+            <a href="/category/recipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+            </a>
+        
+
+        <h2><a href='/editors-pick/recipe/2018/12/01/chavan-has-been-pleading'>Chavan has been pleading with the BCCI</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Chapman">
+                                Chapman</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>01 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/trending/recipe/2018/03/02/the-holding-named-diet-present-switching-stitching-location'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/6292b4ac5c060181f261e3abbe5d3d856c1f2da9/5e8fc/assets/images/home-4/blog-img1.jpg" alt="The holding named diet present switching location"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/trending" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Trending
+                
+                
+            </a>
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/trending/recipe/2018/03/02/the-holding-named-diet-present-switching-stitching-location'>The holding named diet present switching location</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+            
+            
+            <div class=" col-lg-6 col-md-12">
+               
+                  
+<article data-aos="fade-up"
+    class="blog-style2 card mb-4  ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/recipe/2018/03/02/board-of-control-for-cricket-in-india'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/6292b4ac5c060181f261e3abbe5d3d856c1f2da9/5e8fc/assets/images/home-4/blog-img1.jpg" alt="The Board of Control for Cricket in India"></a>
+        </div>
+    </div>
+    <div data-aos="fade-up" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/recipe" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Recipe
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/recipe/2018/03/02/board-of-control-for-cricket-in-india'>The Board of Control for Cricket in India</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+               
+            </div>
+            
+         
+      </div>
+   </div>
+</div>
+<!--/// Blog Area /// -->
+
+<section class="cta-area py-5 bg-light">
+    <ul class="circles">
+        <li><i class="fa fa-envelope-open fa-5x"></i></li>
+        <li><i class="fa fa-envelope fa-4x"></i></li>
+        <li><i class="fa fa-envelope fa-3x"></i></li>
+        <li><i class="fa fa-envelope-open fa-2x"></i></li>
+        <li><i class="fa fa-envelope fa-1x"></i></li>
+        <li><i class="fa fa-envelope fa-2x"></i></li>
+        <li><i class="fa fa-envelope fa-1x"></i></li>
+        <li><i class="fa fa-envelope fa-3x"></i></li>
+        <li><i class="fa fa-envelope fa-2x"></i></li>
+        <li><i class="fa fa-envelope fa-5x"></i></li>
+    </ul>
+    <div class="container-fluid text-center z-index-10 position-relative  ">
+        <div class="row">
+            <div class="col-md-8 m-auto">
+                <h2 class="text-secondary">Subscribe to see what we're thinking</h2>
+                <p>Subscribe to get access to premium content or contact us if you have any questions.</p>
+                <a href="/subscribe" class="btn btn-outline-light bg-danger text-white box-hover">Subscribe Now <i
+                        class="fas fa-envelope-open-text ms-1"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    <!--/// Footer Area /// -->
+<footer class="footer-area pt-5 pb-2">
+    <div class="container">
+      <div class="row">
+        <div class="col-xxl-5 col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-3  d-flex align-items-center">
+          <div class="footer-widget pe-2">
+            <img class="footer-logo mb-3" src="https://d33wubrfki0l68.cloudfront.net/da047f13938ef3073df84084c42973f94b813008/17ccd/assets/images/footer-brand.png" alt="Newsfeed - Responsive News, Magazine Premium Jekyll Theme">
+  
+            <p>Newsfeed is well optimized template for any kinds of newspaper, blog, magazine etc website</p>
+  
+          </div>
+        </div>
+        <div class="col-xxl-2 col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-3">
+          <div class="footer-widget">
+            <h4 class="mb-3">Navigation</h4>
+            <ul class="footer-nav list-inline">
+              <li><a href="/">Home</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/faq">FAQ</a></li>
+              <li><a href="/contact">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-xxl-2 col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-3">
+          <div class="footer-widget">
+            <h4 class="mb-3">Social Media</h4>
+            <ul class="footer-nav list-inline">
+
+              
+                <li><a href="https://facebook.com/themeix"><span class="icon"><i class="fab fa-facebook-f"></i></span>Facebook</a></li>
+              
+
+              
+                <li><a href="https://twitter.com/themeix_com"><span class="icon"><i class="fab fa-twitter"></i></span>Twitter</a></li>
+              
+
+              
+                <li><a href="https://instagram.com/themeix"><span class="icon"><i class="fab fa-instagram"></i></span>Instagram</a></li>
+              
+
+              
+
+            </ul>
+          </div>
+        </div>
+  
+        <div class="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-3 ">
+          <div class="footer-widget">
+            <h4 class="mb-3">Contact Info</h4>
+            <ul class="footer-nav list-inline">
+              <li><a href="#"><span class="icon"><i class="fas fa-map-pin"></i></span>New S. Sales Road, Toronto,
+                  CA</a></li>
+              <li><a href="#"><span class="icon"><i class="fas fa-envelope-open"></i></span>support@themeix.com</a></li>
+              <li><a href="#"><span class="icon"><i class="fas fa-phone"></i></span>+1 (123) 123 456</a></li>
+              <li><a href="#"><span class="icon"><i class="fas fa-fax"></i></span>+1 (123) 123 456</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12 mt-4 border-1 border-top pt-2 border-light">
+          <div class="footer-copyright text-sm  text-center"> <span>
+              <p>&copy; <span id="spanYear"></span> Newsfeed -
+                <span>Developed with <i class="fa fa-heart text-danger"></i> by <a target="_blank"
+                    href="https://themeix.com">Themeix</a> <br>&amp; </span><span class="small">Published with
+                  <a target="_blank" href="https://getbootstrap.com/">Bootstrap 5</a></span>
+              </p>
+            </span></div>
+        </div>
+      </div>
+
+      <a href="#" class="footer-back"><i class="fas fa-chevron-up"></i></a>
+
+    </div>
+  </footer>
+
+    <!--=========== JS Add ==========-->
+    <!-- gulp:js -->
+    <script src='https://d33wubrfki0l68.cloudfront.net/js/bf1756d1c6c0bf3136df872d54ae3b00ade4c80c/assets/js/build.min.js'></script>
+    <!-- endgulp -->
+
+    <script>
+        if($(".nf-loadmore").length){
+            let str = window.location.href.split('/');
+            var categorySlug = str.pop() || str.pop();
+
+                $('.infinite-scroll-3').infiniteScroll({
+                path: function path() {
+                var pageNumber = this.loadCount + 2;
+                return '/category/'+categorySlug+'/pages/' + pageNumber + '/index.html';
+                },
+                append: '.post-item',
+                button: '.nf-loadmore',
+                scrollThreshold: false
+            });
+
+            $('.infinite-scroll-4').infiniteScroll({
+                path: function path() {
+                var pageNumber = this.loadCount + 2;
+                return '/tag/'+categorySlug+'/pages/' + pageNumber + '/index.html';
+                },
+                append: '.post-item',
+                button: '.nf-loadmore',
+                scrollThreshold: false
+            });
+        }
+
+    </script>
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="0fb3e5b5-1038-45e7-a153-173d144eee90";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script></body>
+
+</html>

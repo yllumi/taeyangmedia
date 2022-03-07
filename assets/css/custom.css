@@ -1,0 +1,33 @@
+.sidebar-widget .tab-content .counter-post li { margin-bottom: 0; min-height: 55px; }
+
+@media (max-width: 1260px) {
+	.container { max-width: 100% !important; width: 100%; padding: 0 30px; }
+}
+
+footer {
+  padding: 3em 0; }
+
+.footer-07 {
+  background: #fff; border-top: 1px solid #ddd; }
+  .footer-07 a {
+    color: #334; }
+  .footer-07 p {
+    color: #789; }
+  .footer-07 .footer-heading {
+    font-size: 30px;
+    color: #335;
+    font-weight: 700;
+    margin-bottom: 30px; }
+    .footer-07 .footer-heading .logo {
+      color: #334; }
+  .footer-07 .menu {
+    margin-bottom: 30px; }
+    .footer-07 .menu a {
+      color: #567;
+      margin: 0 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px; }
+  .footer-07 .ftco-footer-social li a {
+    background: transparent;
+    border: 1px solid #a3de83; }
+

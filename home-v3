@@ -1,0 +1,4288 @@
+<!DOCTYPE HTML>
+<html lang=" en">
+
+<head>
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Home v3 | Newsfeed - Responsive News, Magazine Premium Jekyll Theme</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Home v3" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="NewsFeed is a responsive Jekyll template for your business website" />
+<meta property="og:description" content="NewsFeed is a responsive Jekyll template for your business website" />
+<link rel="canonical" href="/home-v3" />
+<meta property="og:url" content="/home-v3" />
+<meta property="og:site_name" content="Newsfeed - Responsive News, Magazine Premium Jekyll Theme" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Home v3" />
+<meta name="twitter:site" content="@" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"NewsFeed is a responsive Jekyll template for your business website","headline":"Home v3","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/header-brand.png"}},"url":"/home-v3"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!--  Add Favicon -->
+    <link rel="icon" href="/assets/images/favicon-32x32.png" type="image/x-icon" />
+
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Open+Sans&display=swap"
+        rel="stylesheet">
+
+    <!-- gulp:css -->
+    <link href='https://d33wubrfki0l68.cloudfront.net/css/ccafff304955af6c12bdeb3bcba079d4efcf65f1/assets/css/app.min.css' rel='stylesheet'/>
+    <!-- endgulp -->
+
+    <link type="application/atom+xml" rel="alternate" href="/index.xml" title="Newsfeed - Responsive News, Magazine Premium Jekyll Theme" />
+
+</head>
+
+<body>
+    <!--/// Header Area /// -->
+    <div class="preloader s " >
+        <div class="lds-roller">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    
+    <header class="header-area">
+
+    <div class="header-navbar-middle d-none d-lg-block">
+        <div class="container">
+            <div class="navbar-brand-wrapper py-3 d-flex justify-content-center align-items-center">
+                <a class="navbar-brand" href="/">
+                    <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/da047f13938ef3073df84084c42973f94b813008/e2cd2/assets/images/header-brand.png" alt="Newsfeed - Responsive News, Magazine Premium Jekyll Theme">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="header-navbar-bottom pt-2 pt-lg-0 border-top border-light">
+        <div class="container themeix-menu-selector">
+            <nav class="navbar navbar-expand-lg">
+                <div class="collapse navbar-collapse" id="main_nav">
+                    
+
+<ul class="navbar-nav me-auto">
+    
+        <li class="nav-item  dropdown    ">
+            <a class="nav-link  dropdown-toggle  " href="/"> Home</a>
+            
+                
+                    <ul class="dropdown-menu">
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/"> Home v1</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v2"> Home v2</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v3"> Home v3</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v4"> Home v4</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v5"> Home v5</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/home-v6"> Home v6</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item    dropdown-toggle " href="/"> Post Layouts</a>
+                            
+                                <ul class="submenu dropdown-menu">
+                                    
+                                    <li>
+                                        <a class="dropdown-item  " href="/lifestyle/political/2018/12/06/13-things-about-sports-you-may-not-have-known"> Blog Layouts 1  </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a class="dropdown-item  " href="/political/receipe/2019/02/09/free-themes"> Blog Layouts 2  </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a class="dropdown-item  " href="/fashion/nature/2018/12/06/should-you-be-using-jquery-3-4"> Blog Layouts 3  </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a class="dropdown-item   dropdown-toggle " href="/"> Menu level  </a>
+                                        
+                                        <ul class="submenu dropdown-menu">
+                                            
+                                            <li><a class="dropdown-item" href="/"> Menu level 4</a></li>
+                                            
+                                            <li><a class="dropdown-item" href="/"> Menu level 4</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                
+            
+        </li>
+    
+        <li class="nav-item  dropdown    has-megamenu  ">
+            <a class="nav-link  dropdown-toggle  " href="/"> Explore</a>
+            
+                
+                    <div class="dropdown-menu megamenu">
+                        <div class="row">
+                            
+                            <div class="col-md-3">
+                                <h6 class="text-danger">Home Variations</h6>
+                                <ul class="list-inline">
+                                    
+                                    <li><a href="/home-v2">Classic Blog</a></li>
+                                    
+                                    <li><a href="/home-v3">Corporate Blog</a></li>
+                                    
+                                    <li><a href="/home-v4">Recipe Blog</a></li>
+                                    
+                                    <li><a href="/home-v5">Sports Blog</a></li>
+                                    
+                                    <li><a href="/home-v6">Full Width Blog</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="col-md-3">
+                                <h6 class="text-danger">Categories</h6>
+                                <ul class="list-inline">
+                                    
+                                    <li><a href="/category/lifestyle">Lifestyle</a></li>
+                                    
+                                    <li><a href="/category/sports">Sports</a></li>
+                                    
+                                    <li><a href="/category/trending">Trending</a></li>
+                                    
+                                    <li><a href="/category/political">Political</a></li>
+                                    
+                                    <li><a href="/category/recipe">Recipe</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="col-md-3">
+                                <h6 class="text-danger">Pages</h6>
+                                <ul class="list-inline">
+                                    
+                                    <li><a href="/blog">Articles</a></li>
+                                    
+                                    <li><a href="/about">About</a></li>
+                                    
+                                    <li><a href="/contact">Contact</a></li>
+                                    
+                                    <li><a href="/faq">FAQ</a></li>
+                                    
+                                    <li><a href="/privacy-policy">Privacy Policy</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <div class="col-md-3">
+                                <h6 class="text-danger">Blog Pages</h6>
+                                <ul class="list-inline">
+                                    
+                                    <li><a href="/lifestyle/political/2018/12/06/13-things-about-sports-you-may-not-have-known">Post Layouts 1</a></li>
+                                    
+                                    <li><a href="/political/receipe/2019/02/09/free-themes">Post Layouts 2</a></li>
+                                    
+                                    <li><a href="/fashion/nature/2018/12/06/should-you-be-using-jquery-3-4">Post Layouts 3</a></li>
+                                    
+                                    <li><a href="/blog">Blog Layout 1</a></li>
+                                    
+                                    <li><a href="/blog-v2">Blog Layout 2</a></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                
+            
+        </li>
+    
+        <li class="nav-item  dropdown    ">
+            <a class="nav-link  dropdown-toggle  " href="/"> Pages</a>
+            
+                
+                    <ul class="dropdown-menu">
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/about"> About Us</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/author/themeix"> Author</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/all-authors"> Authors</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/category/trending"> Category</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/categories"> Categories</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/faq"> FAQ</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/privacy-policy"> Privacy Policy</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/blog"> Blog</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/blog-v2"> Blog v2</a>
+                            
+                        </li>
+                        
+                        <li>
+                        <a class="dropdown-item   " href="/404"> 404</a>
+                            
+                        </li>
+                        
+                        
+                    </ul>
+                
+            
+        </li>
+    
+        <li class="nav-item    ">
+            <a class="nav-link  " href="/blog"> Articles</a>
+            
+        </li>
+    
+        <li class="nav-item    ">
+            <a class="nav-link  " href="/contact"> Contact</a>
+            
+        </li>
+    
+        <li class="nav-item    ">
+            <a class="nav-link  " href="/tags"> Tags</a>
+            
+        </li>
+    
+        <li class="nav-item    ">
+            <a class="nav-link  " href="https://themeix.com/product/newsfeed-news-magazine-website-html-site-template/"> Buy Now <span>New</span></a>
+            
+        </li>
+    
+</ul>
+                </div>
+                
+                    <div class="search-modal" data-bs-toggle="modal" data-bs-target="#search-modal"><a class="nav-link" href="#"> <i class="fas fa-search"></i> </a>
+                </div>
+                
+            </nav>
+            <div class="modal fade" id="search-modal" data-bs-backdrop="static">
+    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+
+                <form class="forms" id="gh-search-input" method="get" target="_top">
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="fas fa-search"></i></span>
+                        <input type="search" class="search-input form-control" placeholder="Type to search"
+                            id="search-input" name="q" />
+                    </div>
+                </form>
+                <div id="results-container"></div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</header>
+
+
+    
+
+    
+
+<!--/// Blog Area /// -->
+<div class="blog-area pt-3 pb-3  pt-lg-2 pb-lg-3">
+    <div class="container">
+       <div class="row">
+           
+          <div class="col-lg-6 col-md-12">
+                
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/sports/2019/02/09/it-was-decided-that-they-will-participate-in-the-host'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/ca8e285444d03ce12f68c2f12e766425e4a91605/fdda0/assets/images/home-5/blog-img12.jpg" alt="it was decided that they will participate in the host"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/sports" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Sports
+                
+            </a>
+        
+
+        <h2><a href='/sports/2019/02/09/it-was-decided-that-they-will-participate-in-the-host'>it was decided that they will participate in the host</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/themeix/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/5f72537f8df9c082baf2eab9525acce2cfe92d19/09af5/assets/images/author/author-img5.jpg" alt="Themeix" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Themeix">
+                                Themeix</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>09 Feb 19</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+          </div>
+          
+          <div class="col-lg-6 col-md-12">
+                
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/sports/2019/02/09/during-the-10th-meeting-of-the-board-of-directors'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/ca8e285444d03ce12f68c2f12e766425e4a91605/fdda0/assets/images/home-5/blog-img12.jpg" alt="Easily choose from thousan of free themes"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/sports" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Sports
+                
+            </a>
+        
+
+        <h2><a href='/sports/2019/02/09/during-the-10th-meeting-of-the-board-of-directors'>Easily choose from thousan of free themes</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/themeix/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/5f72537f8df9c082baf2eab9525acce2cfe92d19/09af5/assets/images/author/author-img5.jpg" alt="Themeix" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Themeix">
+                                Themeix</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>09 Feb 19</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+          </div>
+          
+       </div>
+    </div>
+ </div>
+
+
+
+<!--/// Blog Area /// -->
+<div class="blog-area">
+   <div class="container">
+      <div class="text-center  themeix-ads"><a href="#">
+         <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/5278c786e54077ebdbc58105cebeba1e9499b28e/99e58/assets/images/blog-ads.png" alt="image" /></a>
+      </div>
+   </div>
+</div>
+
+
+<!--/// Blog Area /// -->
+<div class="blog-area py-5 ">
+   <div class="container">
+      <div class="row">
+         <div class="col-lg-8 col-md-7">
+            
+            
+            
+            
+            
+<div class="nf-widget">
+    <div class="row">
+       <div class="col-md-12">
+          <div class="section-title-block d-flex pb-3">
+             <h3 class="section-widget-title">Political News</h3>
+             <a href="/category/political" class="text-uppercase section-title-link">
+                See all
+                <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                   <path
+                      d="M1.5 13.5h17.79l-5.445 6.54a1.502 1.502 0 102.31 1.92l7.5-9a1.78 1.78 0 00.135-.226c0-.075.075-.12.105-.195A1.5 1.5 0 0024 12a1.499 1.499 0 00-.105-.54c0-.075-.075-.12-.105-.195a1.766 1.766 0 00-.135-.225l-7.5-9A1.499 1.499 0 0015 1.5a1.5 1.5 0 00-1.155 2.46l5.445 6.54H1.5a1.5 1.5 0 100 3z">
+                   </path>
+                </svg>
+             </a>
+          </div>
+       </div>
+    </div>
+    
+       
+<article data-aos="fade-up" class="blog-style2 card mb-4 ">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/political/receipe/getting-started-now/2019/02/09/free-themes'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/3d4a5d7e7f2d7eecd453e6b4680e540ae773396d/29f51/assets/images/blog/blog-img23.jpg" alt="Easily choose from thousan of free themes"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body  d-md-flex align-items-center">
+        <div class="card-flex-content">
+            
+                <a href="/category/political" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Political
+                    
+                </a>
+            
+                <a href="/category/receipe" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Receipe
+                    
+                </a>
+            
+                <a href="/category/getting-started-now" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                            
+                            Getting Started
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                </a>
+            
+
+            <h4><a href='/political/receipe/getting-started-now/2019/02/09/free-themes'>Easily choose from thousan of free themes</a>
+            </h4>
+            <p>Out his in at explains universal of the choose doctor exerted was this leather have then six been</p>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="author-block">
+                        <ul class="avatar list-inline mb-0">
+                            <li class="list-inline-item">
+                                <a class="small" href="/author/themeix/">
+                                <img  src="https://d33wubrfki0l68.cloudfront.net/5f72537f8df9c082baf2eab9525acce2cfe92d19/09af5/assets/images/author/author-img5.jpg" alt="Themeix" data-bs-toggle="tooltip"
+                                        data-bs-placement="top" title="Themeix">Themeix
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                        <span>09 Feb 19</span>
+                        <span>
+    
+    4 mins read.
+</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+    
+       
+<article data-aos="fade-up" class="blog-style2 card mb-4 ">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/trending/political/2018/12/06/why-it-s-easier-to-succeed-with-ghost-than-you-might-think'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/b7403f5eecf8a46768364c179deff4714e454f17/32fcf/assets/images/blog/blog-img27.jpg" alt="Why It's Easier to Succeed With Ghost Than You Might Think"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body  d-md-flex align-items-center">
+        <div class="card-flex-content">
+            
+                <a href="/category/lifestyle" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Lifestyle
+                    
+                </a>
+            
+                <a href="/category/trending" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Trending
+                    
+                </a>
+            
+                <a href="/category/political" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Political
+                    
+                </a>
+            
+
+            <h4><a href='/lifestyle/trending/political/2018/12/06/why-it-s-easier-to-succeed-with-ghost-than-you-might-think'>Why It's Easier to Succeed With Ghost Than You Might Think</a>
+            </h4>
+            <p>Hero's picture of river follow though, by in was the have in are an as our the headline who coffee that like that sleep harmonics.</p>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="author-block">
+                        <ul class="avatar list-inline mb-0">
+                            <li class="list-inline-item">
+                                <a class="small" href="/author/chapman/">
+                                <img  src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                        data-bs-placement="top" title="Chapman">Chapman
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                        <span>06 Dec 18</span>
+                        <span>
+    
+    4 mins read.
+</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+    
+       
+<article data-aos="fade-up" class="blog-style2 card mb-4 ">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/political/2018/12/06/13-things-about-sports-you-may-not-have-known'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/45c53bdf7b43002631611805cb788b0efae9834f/9bc1c/assets/images/blog/blog-img26.jpg" alt="13 Things About Sports You May Not Have Known"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body  d-md-flex align-items-center">
+        <div class="card-flex-content">
+            
+                <a href="/category/lifestyle" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Lifestyle
+                    
+                </a>
+            
+                <a href="/category/political" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Political
+                    
+                </a>
+            
+
+            <h4><a href='/lifestyle/political/2018/12/06/13-things-about-sports-you-may-not-have-known'>13 Things About Sports You May Not Have Known</a>
+            </h4>
+            <p>May for you not contact time at that what soon be I harmonics. Their here housed the field his in concepts.</p>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="author-block">
+                        <ul class="avatar list-inline mb-0">
+                            <li class="list-inline-item">
+                                <a class="small" href="/author/chapman/">
+                                <img  src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                        data-bs-placement="top" title="Chapman">Chapman
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                        <span>06 Dec 18</span>
+                        <span>
+    
+    4 mins read.
+</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+    
+       
+<article data-aos="fade-up" class="blog-style2 card mb-4 ">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/receipe/political/2018/12/06/website-design-templates-expectations-vs-reality'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/8e39b22e2401df909818c7136614f1082fbec34e/d5168/assets/images/blog/blog-img25.jpg" alt="Website Design Templates: Expectations vs. Reality"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body  d-md-flex align-items-center">
+        <div class="card-flex-content">
+            
+                <a href="/category/lifestyle" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Lifestyle
+                    
+                </a>
+            
+                <a href="/category/receipe" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Receipe
+                    
+                </a>
+            
+                <a href="/category/political" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Political
+                    
+                </a>
+            
+
+            <h4><a href='/lifestyle/receipe/political/2018/12/06/website-design-templates-expectations-vs-reality'>Website Design Templates: Expectations vs. Reality</a>
+            </h4>
+            <p>here a lazy not come percussion longer this no there necessary pass including to about from primarily trumpet plan named very one.</p>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="author-block">
+                        <ul class="avatar list-inline mb-0">
+                            <li class="list-inline-item">
+                                <a class="small" href="/author/chapman/">
+                                <img  src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                        data-bs-placement="top" title="Chapman">Chapman
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                        <span>06 Dec 18</span>
+                        <span>
+    
+    4 mins read.
+</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+    
+       
+<article data-aos="fade-up" class="blog-style2 card mb-4 ">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/political/receipe/2018/12/06/ten-10-terrible-ways-to-spend-your-money'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/656ea92aff607b8b87fbe64e8108db96aac2ba64/82907/assets/images/blog/blog-img24.jpg" alt="Ten (10) Terrible Ways to Spend Your Money"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body  d-md-flex align-items-center">
+        <div class="card-flex-content">
+            
+                <a href="/category/lifestyle" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Lifestyle
+                    
+                </a>
+            
+                <a href="/category/political" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Political
+                    
+                </a>
+            
+                <a href="/category/receipe" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Receipe
+                    
+                </a>
+            
+
+            <h4><a href='/lifestyle/political/receipe/2018/12/06/ten-10-terrible-ways-to-spend-your-money'>Ten (10) Terrible Ways to Spend Your Money</a>
+            </h4>
+            <p>his all harmonic he big in their gift years; To in remedies. Hero's picture of river follow though</p>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="author-block">
+                        <ul class="avatar list-inline mb-0">
+                            <li class="list-inline-item">
+                                <a class="small" href="/author/chapman/">
+                                <img  src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                        data-bs-placement="top" title="Chapman">Chapman
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                        <span>06 Dec 18</span>
+                        <span>
+    
+    4 mins read.
+</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+    
+       
+<article data-aos="fade-up" class="blog-style2 card mb-4 ">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/political/2018/12/06/9-ways-to-design-for-human-error'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/f9d65b351f8186f4af5123ece66f5ca6b45194cf/dcbc4/assets/images/blog/blog-img10.jpg" alt="10 Ways to Design for Human Error"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body  d-md-flex align-items-center">
+        <div class="card-flex-content">
+            
+                <a href="/category/lifestyle" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Lifestyle
+                    
+                </a>
+            
+                <a href="/category/political" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Political
+                    
+                </a>
+            
+
+            <h4><a href='/lifestyle/political/2018/12/06/9-ways-to-design-for-human-error'>10 Ways to Design for Human Error</a>
+            </h4>
+            <p>Was my right was world if a cheek, the detailed text needs the destined to determined requests.</p>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="author-block">
+                        <ul class="avatar list-inline mb-0">
+                            <li class="list-inline-item">
+                                <a class="small" href="/author/chapman/">
+                                <img  src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                        data-bs-placement="top" title="Chapman">Chapman
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                        <span>06 Dec 18</span>
+                        <span>
+    
+    4 mins read.
+</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+    
+       
+<article data-aos="fade-up" class="blog-style2 card mb-4 ">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/editors-pick/political/2018/12/01/11-sign-put-admittance-of-on-burden-and-the-been-to'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/8c4b7165c7065e7d39e33d19614ebb1ef8b1a800/bfd95/assets/images/blog/blog-img16.jpg" alt="Sign put admittance of on burden and the been to"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body  d-md-flex align-items-center">
+        <div class="card-flex-content">
+            
+                <a href="/category/editors-pick" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                            
+                            Editors Pick
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                </a>
+            
+                <a href="/category/political" class="badge bg-primary">
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+                        
+
+                        
+                    
+
+                    
+                        Political
+                    
+                </a>
+            
+
+            <h4><a href='/editors-pick/political/2018/12/01/11-sign-put-admittance-of-on-burden-and-the-been-to'>Sign put admittance of on burden and the been to</a>
+            </h4>
+            <p>Wow of on success yet check caution agency, on them. Of early his beginning new with now.</p>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="author-block">
+                        <ul class="avatar list-inline mb-0">
+                            <li class="list-inline-item">
+                                <a class="small" href="/author/chapman/">
+                                <img  src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                        data-bs-placement="top" title="Chapman">Chapman
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                        <span>01 Dec 18</span>
+                        <span>
+    
+    4 mins read.
+</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+    
+ </div>
+         </div>
+
+         <div class="col-lg-4 col-md-5">
+            <div class="sidebar-widget mb-3 border border-light rounded">
+    <div class="wrapper">
+       
+       
+       
+       
+       
+
+<div class="nf-widget">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="section-title-block d-flex pb-3">
+                <h3 class="section-widget-title">Trending</h3>
+                
+                <a href="/category/trending" class="text-uppercase section-title-link">
+                    See all
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M1.5 13.5h17.79l-5.445 6.54a1.502 1.502 0 102.31 1.92l7.5-9a1.78 1.78 0 00.135-.226c0-.075.075-.12.105-.195A1.5 1.5 0 0024 12a1.499 1.499 0 00-.105-.54c0-.075-.075-.12-.105-.195a1.766 1.766 0 00-.135-.225l-7.5-9A1.499 1.499 0 0015 1.5a1.5 1.5 0 00-1.155 2.46l5.445 6.54H1.5a1.5 1.5 0 100 3z">
+                        </path>
+                    </svg>
+                </a>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='Why It\'s Easier to Succeed With Ghost Than You Might Think' href='/lifestyle/trending/political/2018/12/06/why-it-s-easier-to-succeed-with-ghost-than-you-might-think'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/b7403f5eecf8a46768364c179deff4714e454f17/32fcf/assets/images/blog/blog-img27.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/b7403f5eecf8a46768364c179deff4714e454f17/32fcf/assets/images/blog/blog-img27.jpg" alt="Why It's Easier to Succeed With Ghost Than You Might Think">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/lifestyle/trending/political/2018/12/06/why-it-s-easier-to-succeed-with-ghost-than-you-might-think'>Why It's Easier to Succeed With Ghost Than You Might Think</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='Syntax  highlight with jekyll' href='/lifestyle/trending/national/2018/12/06/syntax-highlight-with-jekyll'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/535d3dc04d5d55cf38b03936ffeb408e589057be/727fa/assets/images/blog/blog-img19.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/535d3dc04d5d55cf38b03936ffeb408e589057be/727fa/assets/images/blog/blog-img19.jpg" alt="Syntax  highlight with jekyll">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/lifestyle/trending/national/2018/12/06/syntax-highlight-with-jekyll'>Syntax  highlight with jekyll</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    1 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='ECommerce Metrics That Really Matter' href='/lifestyle/trending/national/2018/12/06/ecommerce-metrics-that-really-matter'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/03f23c4bd18790755df29caa2495d2c7c4861a1a/56fdb/assets/images/blog/blog-img18.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/03f23c4bd18790755df29caa2495d2c7c4861a1a/56fdb/assets/images/blog/blog-img18.jpg" alt="ECommerce Metrics That Really Matter">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/lifestyle/trending/national/2018/12/06/ecommerce-metrics-that-really-matter'>ECommerce Metrics That Really Matter</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='Why the Biggest Myths About Technology ' href='/lifestyle/trending/national/2018/12/06/why-the-biggest-myths-about-technology-may-actually-be-right'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/bc6eaa2e52e16f1e03b3ea40da7db1d32f8dc41c/66a9e/assets/images/blog/blog-img17.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/bc6eaa2e52e16f1e03b3ea40da7db1d32f8dc41c/66a9e/assets/images/blog/blog-img17.jpg" alt="Why the Biggest Myths About Technology ">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/lifestyle/trending/national/2018/12/06/why-the-biggest-myths-about-technology-may-actually-be-right'>Why the Biggest Myths About Technology </a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='How to Code a “Click to Tweet” Button' href='/trending/national/2018/12/06/how-to-code-a-click-to-tweet-button'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/6d5621fae88ab1f1a8234fa3b365c1fe50f1cfd9/b1751/assets/images/blog/blog-img15.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/6d5621fae88ab1f1a8234fa3b365c1fe50f1cfd9/b1751/assets/images/blog/blog-img15.jpg" alt="How to Code a “Click to Tweet” Button">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/trending/national/2018/12/06/how-to-code-a-click-to-tweet-button'>How to Code a “Click to Tweet” Button</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+
+    
+</div>
+    </div>
+ </div>
+
+ <div class="sidebar-widget mb-3 border border-light rounded">
+    <div class="wrapper">
+       <ul class="nav nav-tabs" id="tab-menu">
+          <li class="nav-item">
+             <a class="active" data-bs-toggle="tab" href="#tab1">Sports News</a>
+          </li>
+          <li class="nav-item">
+             <a data-bs-toggle="tab" href="#tab2">Most Recent </a>
+          </li>
+       </ul>
+       <div class="tab-content" id="tab-content">
+          <div class="tab-pane fade show active" id="tab1">
+             <ul class="counter-post list-inline">
+               
+               
+                
+                   <li class="counter-post-item">
+                      <a href='/sports/2019/02/09/it-was-decided-that-they-will-participate-in-the-host'>it was decided that they will participate in the host</a>
+                   </li>
+                
+                   <li class="counter-post-item">
+                      <a href='/sports/2019/02/09/during-the-10th-meeting-of-the-board-of-directors'>Easily choose from thousan of free themes</a>
+                   </li>
+                
+                   <li class="counter-post-item">
+                      <a href='/sports/2019/02/01/it-is-the-same-for-whoever-is-interested-to-bid-for-the-event'>It is the same for whoever is interested to bid for the event</a>
+                   </li>
+                
+                   <li class="counter-post-item">
+                      <a href='/sports/2018/12/06/whether-or-not-i-can-get-back-into-mumbai-team'>The UX of Sound: Designing Audio Experiences</a>
+                   </li>
+                
+                   <li class="counter-post-item">
+                      <a href='/sports/national/2018/12/06/we-will-need-to-have-10-full-fledged-stadiums'>We will need to have 10 full fledged stadiums</a>
+                   </li>
+                
+             </ul>
+          </div>
+          <div class="tab-pane fade" id="tab2">
+             <ul class="counter-post list-inline">
+                
+                   <li class="counter-post-item">
+                      <a href='/sports/2019/02/09/it-was-decided-that-they-will-participate-in-the-host'>it was decided that they will participate in the host</a>
+                   </li>
+                
+                   <li class="counter-post-item">
+                      <a href='/sports/2019/02/09/during-the-10th-meeting-of-the-board-of-directors'>Easily choose from thousan of free themes</a>
+                   </li>
+                
+                   <li class="counter-post-item">
+                      <a href='/political/receipe/getting-started-now/2019/02/09/free-themes'>Easily choose from thousan of free themes</a>
+                   </li>
+                
+                   <li class="counter-post-item">
+                      <a href='/editors-pick/lifestyle/2019/02/09/alternative-for-free'>Alternative Free Way To Be A Prodessional Designer</a>
+                   </li>
+                
+                   <li class="counter-post-item">
+                      <a href='/recipe/2019/02/01/it-is-the-same-for-whoever-is-interested'>It is the same for whoever is interested to bid for the event</a>
+                   </li>
+                
+             </ul>
+          </div>
+       </div>
+    </div>
+ </div>
+ <div class="sidebar-widget mb-3 border border-light rounded">
+    <div class="wrapper">
+       <div class="row">
+          <div class="col-md-12">
+             <div class="section-title-block d-flex pb-3">
+                <h3 class="section-widget-title">Tag Cloud</h3>
+                <a href="/tags" class="text-uppercase section-title-link">
+                   See all
+                   <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                      <path
+                         d="M1.5 13.5h17.79l-5.445 6.54a1.502 1.502 0 102.31 1.92l7.5-9a1.78 1.78 0 00.135-.226c0-.075.075-.12.105-.195A1.5 1.5 0 0024 12a1.499 1.499 0 00-.105-.54c0-.075-.075-.12-.105-.195a1.766 1.766 0 00-.135-.225l-7.5-9A1.499 1.499 0 0015 1.5a1.5 1.5 0 00-1.155 2.46l5.445 6.54H1.5a1.5 1.5 0 100 3z">
+                      </path>
+                   </svg>
+                </a>
+             </div>
+          </div>
+       </div>
+       <ul class="tag-cloud list-inline">
+         
+            <li class="list-inline-item"><a
+                  class="btn bg-light text-secondary bg-hover-danger text-hover-white bg-hover-danger text-hover-white"
+                  href="/tag/education">Education</a>
+            </li>
+          
+            <li class="list-inline-item"><a
+                  class="btn bg-light text-secondary bg-hover-danger text-hover-white bg-hover-danger text-hover-white"
+                  href="/tag/technology">Technology</a>
+            </li>
+          
+       </ul>
+    </div>
+ </div>
+ 
+ <div class="sidebar-widget border border-light rounded">
+    <div class="wrapper">
+       <h3>Subscribe Now</h3>
+       <p>Keep updated with the latest news!</p>
+       <form method="POST" action="https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884" class="subscription-from">
+          <div class="input-group">
+             <input type="email" name="Email" class="form-control" placeholder="Enter your email">
+             <div class="input-group-append">
+                <button class="btn btn-secondary" type="submit">Subscribe</button>
+             </div>
+          </div>
+       </form>
+    </div>
+ </div>
+ 
+         </div>
+      </div>
+   </div>
+</div>
+
+
+
+
+
+<section class="blog-area bg-light pt-5 pb-3">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="section-title-block d-flex pb-3">
+               <h3 class="section-widget-title">Editors Pick</h3>
+               <a href="/category/editors-pick" class="text-uppercase section-title-link">
+                  See all
+                  <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                     <path
+                        d="M1.5 13.5h17.79l-5.445 6.54a1.502 1.502 0 102.31 1.92l7.5-9a1.78 1.78 0 00.135-.226c0-.075.075-.12.105-.195A1.5 1.5 0 0024 12a1.499 1.499 0 00-.105-.54c0-.075-.075-.12-.105-.195a1.766 1.766 0 00-.135-.225l-7.5-9A1.499 1.499 0 0015 1.5a1.5 1.5 0 00-1.155 2.46l5.445 6.54H1.5a1.5 1.5 0 100 3z">
+                     </path>
+                  </svg>
+               </a>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         
+            <div class="col-md-6 col-lg-6">
+               
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/editors-pick/lifestyle/2019/02/09/alternative-for-free'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/00486ae1d3bb460b74ac356d5ae58e2050009460/c8919/assets/images/blog/blog-img22.jpg" alt="Alternative Free Way To Be A Prodessional Designer"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/editors-pick" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                        
+                        Editors Pick
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+            </a>
+        
+            <a href="/category/lifestyle" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Lifestyle
+                
+            </a>
+        
+
+        <h2><a href='/editors-pick/lifestyle/2019/02/09/alternative-for-free'>Alternative Free Way To Be A Prodessional Designer</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/themeix/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/5f72537f8df9c082baf2eab9525acce2cfe92d19/09af5/assets/images/author/author-img5.jpg" alt="Themeix" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Themeix">
+                                Themeix</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>09 Feb 19</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+            </div>
+         
+            <div class="col-md-6 col-lg-6">
+               
+<article class="blog-style3 border-0 card mb-4 position-relative">
+    <div class="feature-image">
+        <div class="image-frame image-hover-style-1">
+            <a href='/lifestyle/editors-pick/receipe/2018/12/06/sample-video3'> <img class="lazyload" src="https://d33wubrfki0l68.cloudfront.net/31d21f03f4c66ec7a0572a8bb078dc9b64592d22/c2b4c/assets/images/blog/blog-img13.jpg" alt="9 Ways to Design for Human Error"
+                    class="w-100"></a>
+        </div>
+    </div>
+    <div class="card-body">
+        
+            <a href="/category/lifestyle" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Lifestyle
+                
+            </a>
+        
+            <a href="/category/editors-pick" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                        
+                        Editors Pick
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+            </a>
+        
+            <a href="/category/receipe" class="badge bg-danger">
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Receipe
+                
+            </a>
+        
+
+        <h2><a href='/lifestyle/editors-pick/receipe/2018/12/06/sample-video3'>9 Ways to Design for Human Error</a> </h2>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="author-block">
+                    <ul class="avatar list-inline mb-0">
+                        <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                    src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman" data-bs-toggle="tooltip"
+                                    data-bs-placement="top" title="Chapman">
+                                Chapman</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6"> <span class="date-info small  float-lg-end">
+                <span>06 Dec 18</span>
+                <span>
+    
+    4 mins read.
+</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</article>
+            </div>
+         
+      </div>
+   </div>
+</section>
+
+
+<!--/// Blog Area /// -->
+<div class="blog-area py-5">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-6 col-lg-4 pb-3">
+            
+            
+            
+            
+            
+
+<div class="nf-widget">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="section-title-block d-flex pb-3">
+                <h3 class="section-widget-title">Nature</h3>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='Should you be using JQuery 3.4 right now for theme?' href='/fashion/nature/2018/12/06/should-you-be-using-jquery-3-4'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/076c0d0c2c3be30e9415d41e69909681f24403e5/0958a/assets/images/blog/blog-img6.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/076c0d0c2c3be30e9415d41e69909681f24403e5/0958a/assets/images/blog/blog-img6.jpg" alt="Should you be using JQuery 3.4 right now for theme?">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/fashion/nature/2018/12/06/should-you-be-using-jquery-3-4'>Should you be using JQuery 3.4 right now for theme?</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    5 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='The Next Big Thing in Professional Design' href='/national/nature/fashion/2018/12/06/the-next'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/1a834956cd6cc63d4267df73fbe96812ff92f661/9b9a1/assets/images/blog/blog-img3.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/1a834956cd6cc63d4267df73fbe96812ff92f661/9b9a1/assets/images/blog/blog-img3.jpg" alt="The Next Big Thing in Professional Design">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/national/nature/fashion/2018/12/06/the-next'>The Next Big Thing in Professional Design</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='The well stash up needed one of are if sacred' href='/editors-pick/nature/2018/12/05/tthe-well-stash-up-needed-one-of-are-if-sacred'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/4ce923e696ac914de54f582b6822e4e12d94eceb/28dce/assets/images/blog/blog-img4.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/4ce923e696ac914de54f582b6822e4e12d94eceb/28dce/assets/images/blog/blog-img4.jpg" alt="The well stash up needed one of are if sacred">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/editors-pick/nature/2018/12/05/tthe-well-stash-up-needed-one-of-are-if-sacred'>The well stash up needed one of are if sacred</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>05 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+
+    
+        <div class="row">
+            <div class="col mt-3">
+                <a href="/category/nature" class="text-uppercase section-title-link">
+                    View all posts (4)
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M1.5 13.5h17.79l-5.445 6.54a1.502 1.502 0 102.31 1.92l7.5-9a1.78 1.78 0 00.135-.226c0-.075.075-.12.105-.195A1.5 1.5 0 0024 12a1.499 1.499 0 00-.105-.54c0-.075-.075-.12-.105-.195a1.766 1.766 0 00-.135-.225l-7.5-9A1.499 1.499 0 0015 1.5a1.5 1.5 0 00-1.155 2.46l5.445 6.54H1.5a1.5 1.5 0 100 3z">
+                        </path>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    
+</div>
+         </div>
+         <div class="col-md-6 col-lg-4  pb-3">
+            
+            
+            
+            
+            
+
+<div class="nf-widget">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="section-title-block d-flex pb-3">
+                <h3 class="section-widget-title">Receipe</h3>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='Easily choose from thousan of free themes' href='/political/receipe/getting-started-now/2019/02/09/free-themes'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/3d4a5d7e7f2d7eecd453e6b4680e540ae773396d/29f51/assets/images/blog/blog-img23.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/3d4a5d7e7f2d7eecd453e6b4680e540ae773396d/29f51/assets/images/blog/blog-img23.jpg" alt="Easily choose from thousan of free themes">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/political/receipe/getting-started-now/2019/02/09/free-themes'>Easily choose from thousan of free themes</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>09 Feb 19</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='Website Design Templates: Expectations vs. Reality' href='/lifestyle/receipe/political/2018/12/06/website-design-templates-expectations-vs-reality'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/8e39b22e2401df909818c7136614f1082fbec34e/d5168/assets/images/blog/blog-img25.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/8e39b22e2401df909818c7136614f1082fbec34e/d5168/assets/images/blog/blog-img25.jpg" alt="Website Design Templates: Expectations vs. Reality">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/lifestyle/receipe/political/2018/12/06/website-design-templates-expectations-vs-reality'>Website Design Templates: Expectations vs. Reality</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='Ten (10) Terrible Ways to Spend Your Money' href='/lifestyle/political/receipe/2018/12/06/ten-10-terrible-ways-to-spend-your-money'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/656ea92aff607b8b87fbe64e8108db96aac2ba64/82907/assets/images/blog/blog-img24.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/656ea92aff607b8b87fbe64e8108db96aac2ba64/82907/assets/images/blog/blog-img24.jpg" alt="Ten (10) Terrible Ways to Spend Your Money">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/lifestyle/political/receipe/2018/12/06/ten-10-terrible-ways-to-spend-your-money'>Ten (10) Terrible Ways to Spend Your Money</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+
+    
+        <div class="row">
+            <div class="col mt-3">
+                <a href="/category/receipe" class="text-uppercase section-title-link">
+                    View all posts (6)
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M1.5 13.5h17.79l-5.445 6.54a1.502 1.502 0 102.31 1.92l7.5-9a1.78 1.78 0 00.135-.226c0-.075.075-.12.105-.195A1.5 1.5 0 0024 12a1.499 1.499 0 00-.105-.54c0-.075-.075-.12-.105-.195a1.766 1.766 0 00-.135-.225l-7.5-9A1.499 1.499 0 0015 1.5a1.5 1.5 0 00-1.155 2.46l5.445 6.54H1.5a1.5 1.5 0 100 3z">
+                        </path>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    
+</div>
+         </div>
+         <div class="col-md-6 col-lg-4  pb-3">
+            
+            
+            
+            
+            
+
+<div class="nf-widget">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="section-title-block d-flex pb-3">
+                <h3 class="section-widget-title">National</h3>
+                
+            </div>
+        </div>
+    </div>
+
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='We will need to have 10 full fledged stadiums' href='/recipe/national/2018/12/06/we-will-need-to-have-10-full-fledged'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/d8d500cdc037e07bc08b4f7329d562cc2c8539ee/e27b8/assets/images/home-4/blog-img12.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/d8d500cdc037e07bc08b4f7329d562cc2c8539ee/e27b8/assets/images/home-4/blog-img12.jpg" alt="We will need to have 10 full fledged stadiums">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/recipe/national/2018/12/06/we-will-need-to-have-10-full-fledged'>We will need to have 10 full fledged stadiums</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='We will need to have 10 full fledged stadiums' href='/sports/national/2018/12/06/we-will-need-to-have-10-full-fledged-stadiums'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/78161a9032fd3eb63aba6baf875c82cb40c8340b/eb54e/assets/images/home-5/blog-img21.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/78161a9032fd3eb63aba6baf875c82cb40c8340b/eb54e/assets/images/home-5/blog-img21.jpg" alt="We will need to have 10 full fledged stadiums">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/sports/national/2018/12/06/we-will-need-to-have-10-full-fledged-stadiums'>We will need to have 10 full fledged stadiums</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    4 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+        <article data-aos="fade-in" class="blog-style5 d-flex  d-md-block d-xl-flex align-items-center mb-3">
+    <a aria-label='Nazmul also confirmed that they have decided to hold' href='/recipe/national/2018/12/06/nazmul-also-confirmed-that-they-have-decided-to'>
+       <div class="post-img-wrap position-relative overflow-hidden">
+          <img class="lazyload post-img" src="https://d33wubrfki0l68.cloudfront.net/0de40b0e437caebe60453f8b60a991c2248d38b8/daf91/assets/images/home-4/blog-img19.jpg"
+             data-src="https://d33wubrfki0l68.cloudfront.net/0de40b0e437caebe60453f8b60a991c2248d38b8/daf91/assets/images/home-4/blog-img19.jpg" alt="Nazmul also confirmed that they have decided to hold">
+       </div>
+    </a>
+    <div class="post-content pt-md-2 pt-xl-0 pt-0">
+       <h6 class="post-title"><a href='/recipe/national/2018/12/06/nazmul-also-confirmed-that-they-have-decided-to'>Nazmul also confirmed that they have decided to hold</a>
+       </h6>
+       <div class="post-meta">
+          <span class="date-info small">
+             <span>06 Dec 18</span>
+             <span>
+    
+    1 mins read.
+</span>
+          </span>
+       </div>
+    </div>
+ </article>
+    
+
+    
+        <div class="row">
+            <div class="col mt-3">
+                <a href="/category/national" class="text-uppercase section-title-link">
+                    View all posts (20)
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M1.5 13.5h17.79l-5.445 6.54a1.502 1.502 0 102.31 1.92l7.5-9a1.78 1.78 0 00.135-.226c0-.075.075-.12.105-.195A1.5 1.5 0 0024 12a1.499 1.499 0 00-.105-.54c0-.075-.075-.12-.105-.195a1.766 1.766 0 00-.135-.225l-7.5-9A1.499 1.499 0 0015 1.5a1.5 1.5 0 00-1.155 2.46l5.445 6.54H1.5a1.5 1.5 0 100 3z">
+                        </path>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    
+</div>
+         </div>
+      </div>
+
+      
+      
+      
+      
+      <div class="nf-widget">
+   <div class="row pt-2">
+      <div class="col-md-12">
+         <div class="section-title-block d-flex pb-3">
+            <h3 class="section-widget-title">Fashion</h3>
+            <a href="/category/fashion" class="text-uppercase section-title-link">
+               See all
+               <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                     d="M1.5 13.5h17.79l-5.445 6.54a1.502 1.502 0 102.31 1.92l7.5-9a1.78 1.78 0 00.135-.226c0-.075.075-.12.105-.195A1.5 1.5 0 0024 12a1.499 1.499 0 00-.105-.54c0-.075-.075-.12-.105-.195a1.766 1.766 0 00-.135-.225l-7.5-9A1.499 1.499 0 0015 1.5a1.5 1.5 0 00-1.155 2.46l5.445 6.54H1.5a1.5 1.5 0 100 3z">
+                  </path>
+               </svg>
+            </a>
+         </div>
+      </div>
+
+      
+         <div class="col-md-6">
+            
+<article data-aos="fade-in"
+    class="blog-style2 card mb-4 aos-init aos-animate ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/fashion/trending/2018/12/06/create-consistent-products-and-brand-messages'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/2bfb9caeec1fc67e3cd22a34568d8c1f7a3445c5/06f05/assets/images/blog/blog-img8.jpg" alt="Create consistent products and brand messages"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/fashion" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                        
+                        Fashion
+                    
+                
+                    
+
+                    
+                
+
+                
+                
+            </a>
+            
+            <a href="/category/trending" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Trending
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/fashion/trending/2018/12/06/create-consistent-products-and-brand-messages'>Create consistent products and brand messages</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+         </div>
+      
+         <div class="col-md-6">
+            
+<article data-aos="fade-in"
+    class="blog-style2 card mb-4 aos-init aos-animate ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/fashion/nature/2018/12/06/should-you-be-using-jquery-3-4'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/076c0d0c2c3be30e9415d41e69909681f24403e5/0958a/assets/images/blog/blog-img6.jpg" alt="Should you be using JQuery 3.4 right now for theme?"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/fashion" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                        
+                        Fashion
+                    
+                
+                    
+
+                    
+                
+
+                
+                
+            </a>
+            
+            <a href="/category/nature" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Nature
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/fashion/nature/2018/12/06/should-you-be-using-jquery-3-4'>Should you be using JQuery 3.4 right now for theme?</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    5 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+         </div>
+      
+         <div class="col-md-6">
+            
+<article data-aos="fade-in"
+    class="blog-style2 card mb-4 aos-init aos-animate ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/national/nature/fashion/2018/12/06/the-next'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/1a834956cd6cc63d4267df73fbe96812ff92f661/9b9a1/assets/images/blog/blog-img3.jpg" alt="The Next Big Thing in Professional Design"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/national" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    National
+                
+                
+            </a>
+            
+            <a href="/category/nature" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                    Nature
+                
+                
+            </a>
+            
+            <a href="/category/fashion" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                        
+                        Fashion
+                    
+                
+                    
+
+                    
+                
+
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/national/nature/fashion/2018/12/06/the-next'>The Next Big Thing in Professional Design</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/chapman/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/073dac0118086ea7f4f7a37f2bce4144cc04f893/bacca/assets/images/author/author-img2.jpg" alt="Chapman"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Chapman"
+                                            aria-label="Chapman">Chapman</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+         </div>
+      
+         <div class="col-md-6">
+            
+<article data-aos="fade-in"
+    class="blog-style2 card mb-4 aos-init aos-animate ">
+    <div class="feature-image">
+        <div class="image-hover-style-1 image-frame">
+            <a href='/editors-pick/fashion/2018/12/05/scent-of-to-her-to-eye-feedback-perfected-for-with'> <img class=" ls-is-cached lazyloaded"
+                    src="https://d33wubrfki0l68.cloudfront.net/26b25c6e5c6cf826a5d8ce56223a04c2f6efe5e1/cfa80/assets/images/blog/blog-img5.jpg" alt="Scent of to her to eye feedback. Perfected for with"></a>
+        </div>
+    </div>
+    <div data-aos="fade-in" class="card-body d-md-flex align-items-center aos-init aos-animate">
+        <div class="card-flex-content">
+            
+            <a href="/category/editors-pick" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                        
+                        Editors Pick
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+
+                
+                
+            </a>
+            
+            <a href="/category/fashion" class="badge bg-info">
+                
+               
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                
+                    
+
+                    
+                        
+                        Fashion
+                    
+                
+                    
+
+                    
+                
+
+                
+                
+            </a>
+            
+
+            
+            <h4><a href='/editors-pick/fashion/2018/12/05/scent-of-to-her-to-eye-feedback-perfected-for-with'>Scent of to her to eye feedback. Perfected for with</a></h4>
+
+            
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="author-block">
+                            <ul class="avatar list-inline mb-0">
+                                <li class="list-inline-item"><a class="small" href="/author/themeix/"><img
+                                            src="https://d33wubrfki0l68.cloudfront.net/5f72537f8df9c082baf2eab9525acce2cfe92d19/09af5/assets/images/author/author-img5.jpg" alt="Themeix"
+                                            data-bs-toggle="tooltip" data-bs-placement="top" title=""
+                                            data-bs-original-title="Themeix"
+                                            aria-label="Themeix">Themeix</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <span class="date-info small  float-lg-end">
+                            <span>
+    
+    4 mins read.
+</span>
+                        </span>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</article>
+
+
+
+         </div>
+      
+
+   </div>
+</div>
+
+   </div>
+</div>
+
+<section class="cta-area py-5 bg-light">
+    <ul class="circles">
+        <li><i class="fa fa-envelope-open fa-5x"></i></li>
+        <li><i class="fa fa-envelope fa-4x"></i></li>
+        <li><i class="fa fa-envelope fa-3x"></i></li>
+        <li><i class="fa fa-envelope-open fa-2x"></i></li>
+        <li><i class="fa fa-envelope fa-1x"></i></li>
+        <li><i class="fa fa-envelope fa-2x"></i></li>
+        <li><i class="fa fa-envelope fa-1x"></i></li>
+        <li><i class="fa fa-envelope fa-3x"></i></li>
+        <li><i class="fa fa-envelope fa-2x"></i></li>
+        <li><i class="fa fa-envelope fa-5x"></i></li>
+    </ul>
+    <div class="container-fluid text-center z-index-10 position-relative  ">
+        <div class="row">
+            <div class="col-md-8 m-auto">
+                <h2 class="text-secondary">Subscribe to see what we're thinking</h2>
+                <p>Subscribe to get access to premium content or contact us if you have any questions.</p>
+                <a href="/subscribe" class="btn btn-outline-light bg-danger text-white box-hover">Subscribe Now <i
+                        class="fas fa-envelope-open-text ms-1"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <!--/// Footer Area /// -->
+<footer class="footer-area pt-5 pb-2">
+    <div class="container">
+      <div class="row">
+        <div class="col-xxl-5 col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-3  d-flex align-items-center">
+          <div class="footer-widget pe-2">
+            <img class="footer-logo mb-3" src="https://d33wubrfki0l68.cloudfront.net/da047f13938ef3073df84084c42973f94b813008/17ccd/assets/images/footer-brand.png" alt="Newsfeed - Responsive News, Magazine Premium Jekyll Theme">
+  
+            <p>Newsfeed is well optimized template for any kinds of newspaper, blog, magazine etc website</p>
+  
+          </div>
+        </div>
+        <div class="col-xxl-2 col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-3">
+          <div class="footer-widget">
+            <h4 class="mb-3">Navigation</h4>
+            <ul class="footer-nav list-inline">
+              <li><a href="/">Home</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/faq">FAQ</a></li>
+              <li><a href="/contact">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-xxl-2 col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-3">
+          <div class="footer-widget">
+            <h4 class="mb-3">Social Media</h4>
+            <ul class="footer-nav list-inline">
+
+              
+                <li><a href="https://facebook.com/themeix"><span class="icon"><i class="fab fa-facebook-f"></i></span>Facebook</a></li>
+              
+
+              
+                <li><a href="https://twitter.com/themeix_com"><span class="icon"><i class="fab fa-twitter"></i></span>Twitter</a></li>
+              
+
+              
+                <li><a href="https://instagram.com/themeix"><span class="icon"><i class="fab fa-instagram"></i></span>Instagram</a></li>
+              
+
+              
+
+            </ul>
+          </div>
+        </div>
+  
+        <div class="col-xxl-3 col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-3 ">
+          <div class="footer-widget">
+            <h4 class="mb-3">Contact Info</h4>
+            <ul class="footer-nav list-inline">
+              <li><a href="#"><span class="icon"><i class="fas fa-map-pin"></i></span>New S. Sales Road, Toronto,
+                  CA</a></li>
+              <li><a href="#"><span class="icon"><i class="fas fa-envelope-open"></i></span>support@themeix.com</a></li>
+              <li><a href="#"><span class="icon"><i class="fas fa-phone"></i></span>+1 (123) 123 456</a></li>
+              <li><a href="#"><span class="icon"><i class="fas fa-fax"></i></span>+1 (123) 123 456</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12 mt-4 border-1 border-top pt-2 border-light">
+          <div class="footer-copyright text-sm  text-center"> <span>
+              <p>&copy; <span id="spanYear"></span> Newsfeed -
+                <span>Developed with <i class="fa fa-heart text-danger"></i> by <a target="_blank"
+                    href="https://themeix.com">Themeix</a> <br>&amp; </span><span class="small">Published with
+                  <a target="_blank" href="https://getbootstrap.com/">Bootstrap 5</a></span>
+              </p>
+            </span></div>
+        </div>
+      </div>
+
+      <a href="#" class="footer-back"><i class="fas fa-chevron-up"></i></a>
+
+    </div>
+  </footer>
+
+    <!--=========== JS Add ==========-->
+    <!-- gulp:js -->
+    <script src='https://d33wubrfki0l68.cloudfront.net/js/bf1756d1c6c0bf3136df872d54ae3b00ade4c80c/assets/js/build.min.js'></script>
+    <!-- endgulp -->
+
+    <script>
+        if($(".nf-loadmore").length){
+            let str = window.location.href.split('/');
+            var categorySlug = str.pop() || str.pop();
+
+                $('.infinite-scroll-3').infiniteScroll({
+                path: function path() {
+                var pageNumber = this.loadCount + 2;
+                return '/category/'+categorySlug+'/pages/' + pageNumber + '/index.html';
+                },
+                append: '.post-item',
+                button: '.nf-loadmore',
+                scrollThreshold: false
+            });
+
+            $('.infinite-scroll-4').infiniteScroll({
+                path: function path() {
+                var pageNumber = this.loadCount + 2;
+                return '/tag/'+categorySlug+'/pages/' + pageNumber + '/index.html';
+                },
+                append: '.post-item',
+                button: '.nf-loadmore',
+                scrollThreshold: false
+            });
+        }
+
+    </script>
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="0fb3e5b5-1038-45e7-a153-173d144eee90";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script></body>
+
+</html>
