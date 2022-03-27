@@ -554,6 +554,12 @@ h1, h2, h3
 		
 	}
 
+	.fullwidth
+	{
+		padding: 30px;
+	}
+
+
 		#topcontainer h1 span
 		{
 			font-size: 50px;
