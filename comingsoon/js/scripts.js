@@ -29,7 +29,7 @@ $(document).ready(function() {
 $(document).ready(function() {
 	"use strict";
 	$("#countdown").countdown({
-		date: "15 april 2022 12:00:00", /** Enter new date here **/
+		date: "02 May 2022 12:00:00", /** Enter new date here **/
 		format: "on"
 	},
 	function() {

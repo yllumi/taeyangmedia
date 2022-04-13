@@ -621,9 +621,9 @@ img.logo {
 	-webkit-border-radius:50%;
 -moz-border-radius:50%;
 border-radius:50%;
--webkit-box-shadow:rgba(0, 0, 0, 0.23) 1px 2px 12px 4px;
+/*-webkit-box-shadow:rgba(0, 0, 0, 0.23) 1px 2px 12px 4px;
 -moz-box-shadow:rgba(0, 0, 0, 0.23) 1px 2px 12px 4px;
-box-shadow:rgba(0, 0, 0, 0.23) 1px 2px 12px 4px;
+box-shadow:rgba(0, 0, 0, 0.23) 1px 2px 12px 4px;*/
 }
 
 
