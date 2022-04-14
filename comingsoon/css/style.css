@@ -239,13 +239,13 @@ h1, h2, h3
 		padding: 6px 0 10px 0;
 		margin-bottom: 0;
 		letter-spacing: -1.5px;
-		color: #444;
+		color: #555;
 		font-weight: 400;
 	}
 	
 		#topcontainer h1 span
 		{
-			font-size: 70px;
+			font-size: 50px;
 			line-height: 70px;
 			letter-spacing: -1.4px;
 			font-weight: 300;
@@ -503,7 +503,7 @@ h1, h2, h3
 
 		#topcontainer h1 span
 		{
-			font-size: 70px;
+			font-size: 50px;
 			line-height: 70px;
 		}
 	
@@ -568,7 +568,7 @@ h1, h2, h3
 	
 	#topcontainer h1
 	{
-		font-size: 36px;
+		font-size: 38px;
 		line-height: 36px;
 		
 	}
@@ -581,8 +581,8 @@ h1, h2, h3
 
 		#topcontainer h1 span
 		{
-			font-size: 50px;
-			line-height: 50px;
+			font-size: 40px;
+			line-height: 40px;
 		}
 	
 	#countdown #countdowncont ul#countscript li
